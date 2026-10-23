@@ -1,8 +1,3 @@
-<<<<<<< HEAD
----
-
-# 📄 `PRIVACY.md` (шаблон Privacy Policy)
-
 ```markdown
 # Политика конфиденциальности / Privacy Policy
 
